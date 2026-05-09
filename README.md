@@ -40,6 +40,7 @@ GROUP BY 1;
 ```
 
 **Objective:** Determine the distribution of content types on Netflix.
+
 2. Find the most common rating for movies and TV shows
 ```sql 
 SELECT 
